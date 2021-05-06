@@ -1,5 +1,6 @@
 git init
 git add --all
-git commit -m
-git remote add origin https://github.com/AliBi-99/OS-Lab5.git
-git push -u origin main
+git commit -m "Fifth Hw"
+git remote add origin https://github.com/AliBi-99/os5.git
+git remote -v
+git push -u origin master
